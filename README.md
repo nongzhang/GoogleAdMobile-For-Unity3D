@@ -2,7 +2,7 @@
 为你的游戏加入谷歌广告（包括横幅广告和插页式广告）
 
 第一步.打开谷歌广告官网https://www.google.com/admob/, 注册一个账号或直接用谷歌账号登录.（需正确上网）
-![Image](https://raw.github.com/nongzhang/GoogleAdMobile-For-Unity3D/raw/master/GuideImage/1.1.png)
+![Image text](https://raw.github.com/nongzhang/GoogleAdMobile-For-Unity3D/master/GuideImage/1.1.png)
 ![image](http://github.com/nongzhang/GoogleAdMobile-For-Unity3D/raw/master/GuideImage/1.1.png)
 
 点击添加应用之后出来如下页面，如果已将应用发布到google play或app store则选是，否则选否.
